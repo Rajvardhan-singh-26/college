@@ -1,0 +1,5 @@
+class student 
+{
+public string name ;
+public int age;
+public student(;

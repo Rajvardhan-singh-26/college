@@ -1,0 +1,7 @@
+class Area_of_triangle{
+public static void main(string args[]) {
+float b = 10,h= 20;
+area = (b*h)/2;
+system.out.println("area of triangle"+area);
+}
+}

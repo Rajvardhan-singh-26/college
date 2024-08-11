@@ -1,0 +1,11 @@
+public class sum_of_num{
+    public static void main(String[] args) {
+        int a = 0;
+        for (int i = 41; number < 250; i++) {
+            if (i % 5 == 0) {
+                a += i;
+            }
+        }
+        System.out.println("Sum of no b/w 40 and 250  div 5 is :" + a);
+    }
+}
